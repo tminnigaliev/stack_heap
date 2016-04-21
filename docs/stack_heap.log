@@ -1,0 +1,589 @@
+This is pdfTeX, Version 3.1415926-2.3-1.40.12 (TeX Live 2011) (format=pdflatex 2012.8.22)  17 DEC 2012 14:55
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**stack_heap.tex
+(./stack_heap.tex
+LaTeX2e <2009/09/24>
+Babel <v3.8l> and hyphenation patterns for english, dumylang, nohyphenation, ge
+rman-x-2009-06-19, ngerman-x-2009-06-19, afrikaans, ancientgreek, ibycus, arabi
+c, armenian, basque, bulgarian, catalan, pinyin, coptic, croatian, czech, danis
+h, dutch, ukenglish, usenglishmax, esperanto, estonian, ethiopic, farsi, finnis
+h, french, galician, german, ngerman, swissgerman, monogreek, greek, hungarian,
+ icelandic, assamese, bengali, gujarati, hindi, kannada, malayalam, marathi, or
+iya, panjabi, tamil, telugu, indonesian, interlingua, irish, italian, kurmanji,
+ lao, latin, latvian, lithuanian, mongolian, mongolianlmc, bokmal, nynorsk, pol
+ish, portuguese, romanian, russian, sanskrit, serbian, serbianc, slovak, sloven
+ian, spanish, swedish, turkish, turkmen, ukrainian, uppersorbian, welsh, loaded
+.
+(/usr/share/texmf/tex/latex/base/article.cls
+Document Class: article 2007/10/19 v1.4h Standard LaTeX document class
+(/usr/share/texmf/tex/latex/base/size10.clo
+File: size10.clo 2007/10/19 v1.4h Standard LaTeX file (size option)
+)
+\c@part=\count79
+\c@section=\count80
+\c@subsection=\count81
+\c@subsubsection=\count82
+\c@paragraph=\count83
+\c@subparagraph=\count84
+\c@figure=\count85
+\c@table=\count86
+\abovecaptionskip=\skip41
+\belowcaptionskip=\skip42
+\bibindent=\dimen102
+)
+(/usr/share/texmf/tex/latex/base/inputenc.sty
+Package: inputenc 2008/03/30 v1.1d Input encoding file
+\inpenc@prehook=\toks14
+\inpenc@posthook=\toks15
+
+(/usr/share/texmf/tex/latex/ucs/utf8x.def
+File: utf8x.def 2004/10/17 UCS: Input encoding UTF-8
+))
+(/usr/share/texmf/tex/latex/ucs/ucs.sty
+Package: ucs 2004/10/17 UCS: Unicode input support
+
+(/usr/share/texmf/tex/latex/ucs/data/uni-global.def
+File: uni-global.def 2004/10/17 UCS: Unicode global data
+)
+\uc@secondtry=\count87
+\uc@combtoks=\toks16
+\uc@combtoksb=\toks17
+\uc@temptokena=\toks18
+)
+(/usr/share/texmf/tex/generic/babel/babel.sty
+Package: babel 2008/07/06 v3.8l The Babel package
+
+(/usr/share/texmf/tex/generic/babel/russianb.ldf
+Language: russianb 2008/03/21 v1.1r Russian support from the babel system
+
+(/usr/share/texmf/tex/generic/babel/babel.def
+File: babel.def 2008/07/06 v3.8l Babel common definitions
+\babel@savecnt=\count88
+\U@D=\dimen103
+)
+(/usr/share/texmf/tex/latex/cyrillic/t2aenc.def
+File: t2aenc.def 2005/09/27 v1.0i Cyrillic encoding definition file
+)
+Package babel Info: Making " an active character on input line 199.
+))
+(/usr/share/texmf/tex/latex/hyperref/hyperref.sty
+Package: hyperref 2011/04/17 v6.82g Hypertext links for LaTeX
+
+(/usr/share/texmf/tex/generic/oberdiek/hobsub-hyperref.sty
+Package: hobsub-hyperref 2011/04/23 v1.4 Bundle oberdiek, subset hyperref (HO)
+
+(/usr/share/texmf/tex/generic/oberdiek/hobsub-generic.sty
+Package: hobsub-generic 2011/04/23 v1.4 Bundle oberdiek, subset generic (HO)
+Package: hobsub 2011/04/23 v1.4 Subsetting bundle oberdiek (HO)
+Package: infwarerr 2010/04/08 v1.3 Providing info/warning/message (HO)
+Package: ltxcmds 2011/04/18 v1.20 LaTeX kernel commands for general use (HO)
+Package: ifluatex 2010/03/01 v1.3 Provides the ifluatex switch (HO)
+Package ifluatex Info: LuaTeX not detected.
+Package: ifvtex 2010/03/01 v1.5 Switches for detecting VTeX and its modes (HO)
+Package ifvtex Info: VTeX not detected.
+Package: intcalc 2007/09/27 v1.1 Expandable integer calculations (HO)
+Package: ifpdf 2011/01/30 v2.3 Provides the ifpdf switch (HO)
+Package ifpdf Info: pdfTeX in PDF mode is detected.
+Package: etexcmds 2011/02/16 v1.5 Prefix for e-TeX command names (HO)
+Package etexcmds Info: Could not find \expanded.
+(etexcmds)             That can mean that you are not using pdfTeX 1.50 or
+(etexcmds)             that some package has redefined \expanded.
+(etexcmds)             In the latter case, load this package earlier.
+Package: kvsetkeys 2011/04/07 v1.13 Key value parser (HO)
+Package: kvdefinekeys 2011/04/07 v1.3 Defining keys (HO)
+Package: pdftexcmds 2011/04/22 v0.16 Utilities of pdfTeX for LuaTeX (HO)
+Package pdftexcmds Info: LuaTeX not detected.
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+Package: pdfescape 2011/04/04 v1.12 Provides string conversions (HO)
+Package: bigintcalc 2011/01/30 v1.2 Expandable big integer calculations (HO)
+Package: bitset 2011/01/30 v1.1 Data type bit set (HO)
+Package: uniquecounter 2011/01/30 v1.2 Provides unlimited unique counter (HO)
+)
+Package hobsub Info: Skipping package `hobsub' (already loaded).
+Package: letltxmacro 2010/09/02 v1.4 Let assignment for LaTeX macros (HO)
+Package: hopatch 2011/01/30 v1.0 Wrapper for package hooks (HO)
+Package: xcolor-patch 2011/01/30 xcolor patch
+Package: atveryend 2011/04/23 v1.7 Hooks at very end of document (HO)
+Package atveryend Info: \enddocument detected (standard).
+Package: atbegshi 2011/01/30 v1.15 At begin shipout hook (HO)
+Package: refcount 2010/12/01 v3.2 Data extraction from references (HO)
+Package: hycolor 2011/01/30 v1.7 Color options of hyperref/bookmark (HO)
+)
+(/usr/share/texmf/tex/latex/graphics/keyval.sty
+Package: keyval 1999/03/16 v1.13 key=value parser (DPC)
+\KV@toks@=\toks19
+)
+(/usr/share/texmf/tex/generic/ifxetex/ifxetex.sty
+Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
+)
+(/usr/share/texmf/tex/latex/oberdiek/kvoptions.sty
+Package: kvoptions 2010/12/23 v3.10 Keyval support for LaTeX options (HO)
+)
+\@linkdim=\dimen104
+\Hy@linkcounter=\count89
+\Hy@pagecounter=\count90
+
+(/usr/share/texmf/tex/latex/hyperref/pd1enc.def
+File: pd1enc.def 2011/04/17 v6.82g Hyperref: PDFDocEncoding definition (HO)
+)
+\Hy@SavedSpaceFactor=\count91
+Package hyperref Info: Option `unicode' set `true' on input line 3162.
+
+(/usr/share/texmf/tex/latex/hyperref/puenc.def
+File: puenc.def 2011/04/17 v6.82g Hyperref: PDF Unicode definition (HO)
+)
+(/usr/share/texmf/tex/latex/latexconfig/hyperref.cfg
+File: hyperref.cfg 2002/06/06 v1.2 hyperref configuration of TeXLive
+)
+Package hyperref Info: Option `colorlinks' set `true' on input line 3905.
+Package hyperref Info: Hyper figures OFF on input line 4026.
+Package hyperref Info: Link nesting OFF on input line 4031.
+Package hyperref Info: Hyper index ON on input line 4034.
+Package hyperref Info: Plain pages OFF on input line 4041.
+Package hyperref Info: Backreferencing OFF on input line 4046.
+Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
+Package hyperref Info: Bookmarks ON on input line 4264.
+\c@Hy@tempcnt=\count92
+
+(/usr/share/texmf/tex/latex/url/url.sty
+\Urlmuskip=\muskip10
+Package: url 2006/04/12  ver 3.3  Verb mode for urls, etc.
+)
+LaTeX Info: Redefining \url on input line 4617.
+\Fld@menulength=\count93
+\Field@Width=\dimen105
+\Fld@charsize=\dimen106
+Package hyperref Info: Hyper figures OFF on input line 5701.
+Package hyperref Info: Link nesting OFF on input line 5706.
+Package hyperref Info: Hyper index ON on input line 5709.
+Package hyperref Info: backreferencing OFF on input line 5716.
+Package hyperref Info: Link coloring ON on input line 5719.
+Package hyperref Info: Link coloring with OCG OFF on input line 5726.
+Package hyperref Info: PDF/A mode OFF on input line 5731.
+LaTeX Info: Redefining \ref on input line 5771.
+LaTeX Info: Redefining \pageref on input line 5775.
+\Hy@abspage=\count94
+\c@Item=\count95
+\c@Hfootnote=\count96
+)
+
+Package hyperref Message: Driver (autodetected): hpdftex.
+
+(/usr/share/texmf/tex/latex/hyperref/hpdftex.def
+File: hpdftex.def 2011/04/17 v6.82g Hyperref driver for pdfTeX
+\Fld@listcount=\count97
+\c@bookmark@seq@number=\count98
+
+(/usr/share/texmf/tex/latex/oberdiek/rerunfilecheck.sty
+Package: rerunfilecheck 2011/04/15 v1.7 Rerun checks for auxiliary files (HO)
+Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
+82.
+)
+\Hy@SectionHShift=\skip43
+)
+(/usr/share/texmf/tex/latex/listings/listings.sty
+\lst@mode=\count99
+\lst@gtempboxa=\box26
+\lst@token=\toks20
+\lst@length=\count100
+\lst@currlwidth=\dimen107
+\lst@column=\count101
+\lst@pos=\count102
+\lst@lostspace=\dimen108
+\lst@width=\dimen109
+\lst@newlines=\count103
+\lst@lineno=\count104
+\lst@maxwidth=\dimen110
+
+(/usr/share/texmf/tex/latex/listings/lstmisc.sty
+File: lstmisc.sty 2007/02/22 1.4 (Carsten Heinz)
+\c@lstnumber=\count105
+\lst@skipnumbers=\count106
+\lst@framebox=\box27
+)
+(/usr/share/texmf/tex/latex/listings/listings.cfg
+File: listings.cfg 2007/02/22 1.4 listings configuration
+))
+Package: listings 2007/02/22 1.4 (Carsten Heinz)
+
+(/usr/share/texmf/tex/latex/listings/lstlang1.sty
+File: lstlang1.sty 2004/09/05 1.3 listings language file
+)
+(/usr/share/texmf/tex/latex/listings/lstmisc.sty
+File: lstmisc.sty 2007/02/22 1.4 (Carsten Heinz)
+)
+(/usr/share/texmf/tex/latex/colortbl/colortbl.sty
+Package: colortbl 2001/02/13 v0.1j Color table columns (DPC)
+
+(/usr/share/texmf/tex/latex/tools/array.sty
+Package: array 2008/09/09 v2.4c Tabular extension package (FMi)
+\col@sep=\dimen111
+\extrarowheight=\dimen112
+\NC@list=\toks21
+\extratabsurround=\skip44
+\backup@length=\skip45
+)
+(/usr/share/texmf/tex/latex/graphics/color.sty
+Package: color 2005/11/14 v1.0j Standard LaTeX Color (DPC)
+
+(/usr/share/texmf/tex/latex/latexconfig/color.cfg
+File: color.cfg 2007/01/18 v1.5 color configuration of teTeX/TeXLive
+)
+Package color Info: Driver file: pdftex.def on input line 130.
+
+(/usr/share/texmf/tex/latex/pdftex-def/pdftex.def
+File: pdftex.def 2011/05/27 v0.06d Graphics/color for pdfTeX
+\Gread@gobject=\count107
+))
+\everycr=\toks22
+\minrowclearance=\skip46
+)
+(/usr/share/texmf/tex/latex/graphics/graphicx.sty
+Package: graphicx 1999/02/16 v1.0f Enhanced LaTeX Graphics (DPC,SPQR)
+
+(/usr/share/texmf/tex/latex/graphics/graphics.sty
+Package: graphics 2009/02/05 v1.0o Standard LaTeX Graphics (DPC,SPQR)
+
+(/usr/share/texmf/tex/latex/graphics/trig.sty
+Package: trig 1999/03/16 v1.09 sin cos tan (DPC)
+)
+(/usr/share/texmf/tex/latex/latexconfig/graphics.cfg
+File: graphics.cfg 2010/04/23 v1.9 graphics configuration of TeX Live
+)
+Package graphics Info: Driver file: pdftex.def on input line 91.
+)
+\Gin@req@height=\dimen113
+\Gin@req@width=\dimen114
+)
+(/usr/share/texmf/tex/latex/oberdiek/epstopdf.sty
+Package: epstopdf 2010/02/09 v2.5 Conversion with epstopdf on the fly (HO)
+
+(/usr/share/texmf/tex/latex/oberdiek/epstopdf-base.sty
+Package: epstopdf-base 2010/02/09 v2.5 Base part for package epstopdf
+
+(/usr/share/texmf/tex/latex/oberdiek/grfext.sty
+Package: grfext 2010/08/19 v1.1 Managing graphics extensions (HO)
+)
+Package grfext Info: Graphics extension search list:
+(grfext)             [.png,.pdf,.jpg,.mps,.jpeg,.jbig2,.jb2,.PNG,.PDF,.JPG,.JPE
+G,.JBIG2,.JB2,.eps]
+(grfext)             \AppendGraphicsExtensions on input line 452.
+
+(/usr/share/texmf/tex/latex/latexconfig/epstopdf-sys.cfg
+File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
+e
+))) (./stack_heap.aux
+LaTeX Font Info:    Try loading font information for T2A+cmr on input line 18.
+
+(/usr/share/texmf/tex/latex/cyrillic/t2acmr.fd
+File: t2acmr.fd 2001/08/11 v1.0a Computer Modern Cyrillic font definitions
+))
+\openout1 = `stack_heap.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 28.
+LaTeX Font Info:    ... okay on input line 28.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 28.
+LaTeX Font Info:    ... okay on input line 28.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 28.
+LaTeX Font Info:    ... okay on input line 28.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 28.
+LaTeX Font Info:    ... okay on input line 28.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 28.
+LaTeX Font Info:    ... okay on input line 28.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 28.
+LaTeX Font Info:    ... okay on input line 28.
+LaTeX Font Info:    Checking defaults for T2A/cmr/m/n on input line 28.
+LaTeX Font Info:    ... okay on input line 28.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 28.
+LaTeX Font Info:    ... okay on input line 28.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 28.
+LaTeX Font Info:    ... okay on input line 28.
+
+(/usr/share/texmf/tex/latex/ucs/ucsencs.def
+File: ucsencs.def 2003/11/29 Fixes to fontencodings LGR, T3
+)
+\AtBeginShipoutBox=\box28
+Package hyperref Info: Link coloring ON on input line 28.
+
+(/usr/share/texmf/tex/latex/hyperref/nameref.sty
+Package: nameref 2010/04/30 v2.40 Cross-referencing by name of section
+
+(/usr/share/texmf/tex/generic/oberdiek/gettitlestring.sty
+Package: gettitlestring 2010/12/03 v1.4 Cleanup title references (HO)
+)
+\c@section@level=\count108
+)
+LaTeX Info: Redefining \ref on input line 28.
+LaTeX Info: Redefining \pageref on input line 28.
+LaTeX Info: Redefining \nameref on input line 28.
+ (./stack_heap.out)
+(./stack_heap.out)
+\@outlinefile=\write3
+\openout3 = `stack_heap.out'.
+
+\c@lstlisting=\count109
+ (/usr/share/texmf/tex/latex/ucs/data/uni-4.def
+File: uni-4.def 2004/10/17 UCS: Unicode data U+0400..U+04FF
+) [1
+
+{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}] (./stack_heap.toc
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <7> on input line 7.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <5> on input line 7.
+)
+\tf@toc=\write4
+\openout4 = `stack_heap.toc'.
+
+pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has 
+been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.64 \newpage
+              [1]
+LaTeX Font Info:    Try loading font information for OMS+cmr on input line 71.
+ (/usr/share/texmf/tex/latex/base/omscmr.fd
+File: omscmr.fd 1999/05/25 v2.5h Standard LaTeX font definitions
+)
+LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <10> not available
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 71.
+ [2]
+LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <9> not available
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 89.
+
+Overfull \hbox (7.41394pt too wide) in paragraph at lines 133--134
+\T2A/cmr/m/n/10 при этом от-ла-доч-ная функ-ци-о-наль-ность, кон-тек-стом ко-то
+-рой яв-ля-ет-ся струк-
+ []
+
+[3]
+Overfull \hbox (71.15181pt too wide) in paragraph at lines 158--159
+[][][][][][][][][][][][][][][][][][][][][] 
+ []
+
+[4]
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <9> on input line 207.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <6> on input line 207.
+
+Overfull \hbox (32.31097pt too wide) in paragraph at lines 207--208
+[][][][][][][][][][][][][][][][][][][][] 
+ []
+
+
+Overfull \hbox (32.31097pt too wide) in paragraph at lines 209--210
+[][][][][][][][][][][][][][][][][][][][] 
+ []
+
+
+Overfull \hbox (26.76228pt too wide) in paragraph at lines 215--216
+[][][][][][][][][][][][][][][][][][][][][][] 
+ []
+
+
+Overfull \hbox (32.31097pt too wide) in paragraph at lines 216--217
+[][][][][][][][][][][][][][][][][][][][] 
+ []
+
+
+Overfull \hbox (32.31097pt too wide) in paragraph at lines 217--218
+[][][][][][][][][][][][][][][][][][][][][][][][] 
+ []
+
+
+Overfull \hbox (21.2136pt too wide) in paragraph at lines 218--220
+[][][][][][][][][][][][][][][][][][][][][][][][] 
+ []
+
+
+Overfull \hbox (37.85966pt too wide) in paragraph at lines 227--228
+[][][][][][][][][][][][][][][][] 
+ []
+
+
+Overfull \hbox (4.56752pt too wide) in paragraph at lines 245--246
+[][][][][][][][][][][][][][][][][][][][][][][][] 
+ []
+
+[5]
+Overfull \hbox (32.31097pt too wide) in paragraph at lines 263--265
+[][][][][][][][][][][][][][][][][][][][] 
+ []
+
+
+Overfull \hbox (26.76228pt too wide) in paragraph at lines 265--267
+[][][][][][][][][][][][][][][][][][][][][][] 
+ []
+
+
+Overfull \hbox (4.56752pt too wide) in paragraph at lines 283--284
+[][][][][][][][][][][][][][][][][][][][][][][][] 
+ []
+
+[6]
+Overfull \hbox (22.37411pt too wide) in paragraph at lines 292--292
+[]\T2A/cmr/bx/n/12 Создание вло-жен-ных куч с ис-поль-зо-ва-ни-ем stack_heap 
+ []
+
+
+Overfull \hbox (32.31097pt too wide) in paragraph at lines 300--302
+[][][][][][][][][][][][][][][][][][][][] 
+ []
+
+
+Overfull \hbox (26.76228pt too wide) in paragraph at lines 302--304
+[][][][][][][][][][][][][][][][][][][][][][] 
+ []
+
+
+Overfull \hbox (71.15181pt too wide) in paragraph at lines 330--332
+[][][][][][][][][][][][][][][][][][][][][][] 
+ []
+
+[7]
+Package epstopdf Info: Source file: <images/classes.eps>
+(epstopdf)                    date: 2012-12-16 19:33:04
+(epstopdf)                    size: 238372 bytes
+(epstopdf)             Output file: <images/classes-eps-converted-to.pdf>
+(epstopdf)                    date: 2012-12-16 19:33:19
+(epstopdf)                    size: 98035 bytes
+(epstopdf)             Command: <repstopdf --outfile=images/classes-eps-convert
+ed-to.pdf images/classes.eps>
+(epstopdf)             \includegraphics on input line 345.
+Package epstopdf Info: Output file is already uptodate.
+ <images/classes-eps-converted-to.pdf, id=290, 1131.22626pt x 478.78876pt>
+File: images/classes-eps-converted-to.pdf Graphic file (type pdf)
+
+<use images/classes-eps-converted-to.pdf>
+Package pdftex.def Info: images/classes-eps-converted-to.pdf used on input line
+ 345.
+(pdftex.def)             Requested size: 282.80586pt x 119.69688pt.
+Package epstopdf Info: Source file: <images/memory.eps>
+(epstopdf)                    date: 2012-12-16 19:24:20
+(epstopdf)                    size: 111254 bytes
+(epstopdf)             Output file: <images/memory-eps-converted-to.pdf>
+(epstopdf)                    date: 2012-12-16 19:24:27
+(epstopdf)                    size: 48749 bytes
+(epstopdf)             Command: <repstopdf --outfile=images/memory-eps-converte
+d-to.pdf images/memory.eps>
+(epstopdf)             \includegraphics on input line 352.
+Package epstopdf Info: Output file is already uptodate.
+
+<images/memory-eps-converted-to.pdf, id=292, 1473.505pt x 785.93625pt>
+File: images/memory-eps-converted-to.pdf Graphic file (type pdf)
+
+<use images/memory-eps-converted-to.pdf>
+Package pdftex.def Info: images/memory-eps-converted-to.pdf used on input line 
+352.
+(pdftex.def)             Requested size: 294.69579pt x 157.18446pt.
+Package epstopdf Info: Source file: <images/memory1.eps>
+(epstopdf)                    date: 2012-12-16 19:35:10
+(epstopdf)                    size: 180013 bytes
+(epstopdf)             Output file: <images/memory1-eps-converted-to.pdf>
+(epstopdf)                    date: 2012-12-16 19:58:37
+(epstopdf)                    size: 74886 bytes
+(epstopdf)             Command: <repstopdf --outfile=images/memory1-eps-convert
+ed-to.pdf images/memory1.eps>
+(epstopdf)             \includegraphics on input line 359.
+Package epstopdf Info: Output file is already uptodate.
+
+<images/memory1-eps-converted-to.pdf, id=294, 1495.5875pt x 785.93625pt>
+File: images/memory1-eps-converted-to.pdf Graphic file (type pdf)
+
+<use images/memory1-eps-converted-to.pdf>
+Package pdftex.def Info: images/memory1-eps-converted-to.pdf used on input line
+ 359.
+(pdftex.def)             Requested size: 299.1122pt x 157.18446pt.
+ [8 <./images/classes-eps-converted-to.pdf> <./images/memory-eps-converted-to.p
+df> <./images/memory1-eps-converted-to.pdf>]
+Overfull \hbox (4.55353pt too wide) in paragraph at lines 370--371
+\T2A/cmr/m/n/10 ес-ли бу-дет необ-хо-ди-мо 3 ра-за со-хра-нить в па-мя-ти строч
+-ку <<complex_signal.c>>
+ []
+
+
+Overfull \hbox (3.44269pt too wide) in paragraph at lines 378--379
+\T2A/cmr/m/n/10 лят-ся с остат-ком на раз-мер хэш-таблицы (за-да-јт-ся в функ-ц
+ии sth_dbg_init).
+ []
+
+Package epstopdf Info: Source file: <images/hash-table.eps>
+(epstopdf)                    date: 2012-12-17 13:33:11
+(epstopdf)                    size: 175538 bytes
+(epstopdf)             Output file: <images/hash-table-eps-converted-to.pdf>
+(epstopdf)                    date: 2012-12-17 13:34:45
+(epstopdf)                    size: 72467 bytes
+(epstopdf)             Command: <repstopdf --outfile=images/hash-table-eps-conv
+erted-to.pdf images/hash-table.eps>
+(epstopdf)             \includegraphics on input line 381.
+Package epstopdf Info: Output file is already uptodate.
+<images/hash-table-eps-converted-to.pdf, id=308, 1337.99875pt x 1160.335pt>
+File: images/hash-table-eps-converted-to.pdf Graphic file (type pdf)
+
+<use images/hash-table-eps-converted-to.pdf>
+Package pdftex.def Info: images/hash-table-eps-converted-to.pdf used on input l
+ine 381.
+(pdftex.def)             Requested size: 334.49887pt x 290.08304pt.
+ [9 <./images/hash-table-eps-converted-to.pdf>]
+Package epstopdf Info: Source file: <images/heap-objects.eps>
+(epstopdf)                    date: 2012-12-17 01:35:59
+(epstopdf)                    size: 531128 bytes
+(epstopdf)             Output file: <images/heap-objects-eps-converted-to.pdf>
+(epstopdf)                    date: 2012-12-17 01:36:06
+(epstopdf)                    size: 218063 bytes
+(epstopdf)             Command: <repstopdf --outfile=images/heap-objects-eps-co
+nverted-to.pdf images/heap-objects.eps>
+(epstopdf)             \includegraphics on input line 388.
+Package epstopdf Info: Output file is already uptodate.
+
+<images/heap-objects-eps-converted-to.pdf, id=320, 1985.4175pt x 1443.3925pt>
+File: images/heap-objects-eps-converted-to.pdf Graphic file (type pdf)
+
+<use images/heap-objects-eps-converted-to.pdf>
+Package pdftex.def Info: images/heap-objects-eps-converted-to.pdf used on input
+ line 388.
+(pdftex.def)             Requested size: 595.62985pt x 433.02109pt.
+
+Overfull \hbox (88.02109pt too wide) in paragraph at lines 388--389
+ [] 
+ []
+
+[10 <./images/heap-objects-eps-converted-to.pdf>]
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 401.
+ [11]
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 401.
+ (./stack_heap.aux)
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 401.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 401.
+Package rerunfilecheck Info: File `stack_heap.out' has not changed.
+(rerunfilecheck)             Checksum: 2AEB461738225C417ACEB4A529D90CAF;2679.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 401.
+ ) 
+Here is how much of TeX's memory you used:
+ 9796 strings out of 493633
+ 132860 string characters out of 3150839
+ 275435 words of memory out of 3500000
+ 12789 multiletter control sequences out of 15000+200000
+ 11944 words of font info for 28 fonts, out of 3000000 for 9000
+ 831 hyphenation exceptions out of 8191
+ 34i,9n,49p,1157b,1141s stack positions out of 5000i,500n,10000p,200000b,50000s
+{/usr/share/texmf/fonts/enc/dvips/cm-super/cm-super-t2a.enc}</usr/share/texmf
+/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/share/texmf/fonts/type1/public
+/amsfonts/cm/cmsy9.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfbx0900.p
+fb></usr/share/texmf/fonts/type1/public/cm-super/sfbx1000.pfb></usr/share/texmf
+/fonts/type1/public/cm-super/sfbx1200.pfb></usr/share/texmf/fonts/type1/public/
+cm-super/sfbx1440.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfrm0900.pf
+b></usr/share/texmf/fonts/type1/public/cm-super/sfrm1000.pfb></usr/share/texmf/
+fonts/type1/public/cm-super/sfrm1200.pfb>
+Output written on stack_heap.pdf (12 pages, 691993 bytes).
+PDF statistics:
+ 409 PDF objects out of 1000 (max. 8388607)
+ 377 compressed objects within 4 object streams
+ 212 named destinations out of 1000 (max. 500000)
+ 106 words of extra memory for PDF output out of 10000 (max. 10000000)
+
